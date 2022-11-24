@@ -1,0 +1,26 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "teamA": {
+        "name": "Qatar",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Ecuador",
+        "score": 1
+      }
+    },
+    {
+      "teamA": {
+        "name": "Canada",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Belgium",
+        "score": "1"
+      },
+      "id": 2
+    }
+  ]
+}
